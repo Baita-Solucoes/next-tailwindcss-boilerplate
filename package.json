@@ -47,10 +47,5 @@
     "twin": {
       "preset": "styled-components"
     }
-  },
-  "config": {
-    "commitizen": {
-      "path": "cz-conventional-changelog"
-    }
   }
 }
